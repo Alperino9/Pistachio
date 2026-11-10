@@ -1,0 +1,25 @@
+{
+  "name": "Pistachio — Sesli Oyun Arkadaşı ve Asistan",
+  "short_name": "Pistachio",
+  "description": "Antep fıstığı renginde, doğal erkek ses tonlu samimi oyun arkadaşı ve asistan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d130e",
+  "theme_color": "#87b865",
+  "orientation": "any",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
